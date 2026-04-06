@@ -1,3 +1,9 @@
+
+## 🌐 Live Demo
+
+👉 [(live link)](https://zorvyn-azmuddin-two.vercel.app/)
+
+
 # Zorvyn – Finance Dashboard UI
 A modern finance tracking dashboard built using **React (Vite)**, **Tailwind CSS v4**, and **Zustand**.
 
@@ -22,14 +28,6 @@ A modern finance tracking dashboard built using **React (Vite)**, **Tailwind CSS
 ```bash
 npm install
 npm run dev
-```
-
----
-
-## 🌐 Live Demo
-
-👉 [(live link)](https://zorvyn-azmuddin-two.vercel.app/)
-
 ---
 
 ## 📁 Project Structure
